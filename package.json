@@ -1,0 +1,7 @@
+{
+  "name": "kuromoji-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "kuromoji": "^0.1.3"
+  }
+}
