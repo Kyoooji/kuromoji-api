@@ -1,0 +1,8 @@
+{
+  "functions": {
+    "api/extract.js": {
+      "includeFiles": "node_modules/kuromoji/dict/**",
+      "runtime": "nodejs18.x"
+    }
+  }
+}
